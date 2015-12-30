@@ -2,14 +2,15 @@
 <metadata>
   <groupId>com.tkmtwo</groupId>
   <artifactId>tkmtwo-hc-core</artifactId>
-  <version>0.0.0</version>
   <versioning>
+    <release>0.3.0</release>
     <versions>
       <version>0.0.0</version>
       <version>0.1.0</version>
       <version>0.2.0</version>
       <version>0.2.1</version>
+      <version>0.3.0</version>
     </versions>
-    <lastUpdated>20150701011721</lastUpdated>
+    <lastUpdated>20151230012113</lastUpdated>
   </versioning>
 </metadata>
